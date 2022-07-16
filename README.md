@@ -1,3 +1,10 @@
+Esse projeto foi desenvolvido no curso de ReactJS da Rocketseat. <br>
+Possui apenas o Front-end, não incluindo a API.
+<br>
+Bicliotecas usadas: NextJs e ChakraUI
+<br>
+<br>
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
